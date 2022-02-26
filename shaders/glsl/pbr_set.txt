@@ -1,0 +1,10 @@
+// set pbr texture format 1 is LabPBR, 0 is OldPBR
+#define PBR_FORMAT 1
+
+#define NORMAL_MAP_STRENGTH 1.0
+
+// allowed value 0.0 ~ 1.0
+#define ROUGHNESS_STRENGTH 1.0
+
+// allowed value 0.0 ~ 1.0
+#define SMOOTHNESS_STRENGTH 1.0
