@@ -8,3 +8,7 @@
 
 // allowed value 0.0 ~ 1.0
 #define SMOOTHNESS_STRENGTH 1.0
+
+// set inverse resolution of current texture pack
+// 16 = 1.0/16.0, 32 = 1.0/32.0 ..
+#define invtres (1.0 / 16.0)
