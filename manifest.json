@@ -3,7 +3,7 @@
 	"header": {
 		"name": "Example Nori PBR (VNR edit)",
 		"description": "a example pbr texture packs for nori shader\nsee original texture: https://github.com/Poudingue/Vanilla-Normals-Renewed",
-		"uuid": "507a574b-6dd5-41d7-b3a0-1930b470569d",
+		"uuid": "d3f963e4-29c5-420f-b61c-b8915924eb99",
 		"version": [1, 0, 4],
 		"min_engine_version": [1, 16, 0]
 	},
@@ -11,7 +11,7 @@
 		{
 			"description": "a example pbr texture packs for nori shader\nsee original texture: https://github.com/Poudingue/Vanilla-Normals-Renewed",
 			"type": "resources",
-			"uuid": "bf81f2d4-75ae-418b-8233-ec884b96d9ab",
+			"uuid": "9cad9e45-d2e8-4b62-98fa-7a1cd90b6d5e",
 			"version": [1, 0, 4]
 		}
 	]
